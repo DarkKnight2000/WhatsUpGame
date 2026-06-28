@@ -1,0 +1,5 @@
+.cache
+build*
+release*
+res
+*.zip
